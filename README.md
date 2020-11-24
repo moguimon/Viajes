@@ -1,4 +1,9 @@
-# Viajes
+---
+layout: page
+title: Readme
+---
+
+# Mis Viajes
 Blog Personal de Viajes 
 Este Blog trata sobre algunos de los viajes personales realizado a lo largo de mi vida.
 Cuenta con una página principal, donde figuran los post más recientes, y pudiendo navegar por ellos de forma cronológica con los botones de "antiguas" "nuevas".
