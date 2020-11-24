@@ -7,7 +7,6 @@ menu:
 - {name: 'Sobre Mi', path: 'menu', url: 'sobremi.html'}
 - {name: 'Blog de mis Viajes', path: 'menu', url: 'viajes.html'}
 - {name: 'Contacto', path: 'menu', url: 'contacto.html'}
-- {name: 'Readme', path: '', url: 'readme.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
