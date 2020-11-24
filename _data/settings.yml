@@ -1,7 +1,7 @@
 # Change 'comments' to true for Disqus comments
 disqus:
   comments: true
-  disqus_shortname: 'https-github-com-moguimon-viajes.disqus.com'
+  disqus_shortname: 'https-github-com-moguimon-viajes.disqus.com/embed.js'
 
 menu:
 - {name: 'Sobre Mi', path: 'menu', url: 'sobremi.html'}
