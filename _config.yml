@@ -24,6 +24,3 @@ title:               'Mis Viajes'
 description:         'un paseo de vida'
 author:              'Ramón Morales'
 
-# RSS 2.0 can be used instead of Atom by uncommenting following two lines
-#feed:
-#  path: rss-feed.xml
