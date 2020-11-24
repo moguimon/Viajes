@@ -1,3 +1,8 @@
+---
+layout: page
+title: README
+---
+
 # Viajes
 Blog Personal de Viajes 
 Este Blog trata sobre algunos de los viajes personales realizado a lo largo de mi vida.
