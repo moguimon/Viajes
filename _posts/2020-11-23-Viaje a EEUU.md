@@ -17,7 +17,7 @@ Tiene muchos lugares que visitar con son Central Park, La Estatua de la Libertad
 ![Imágenes de Nueva York]({{site.baseurl}}/assets/img/NuevaYork.jpg)
 
 ### Los Ángeles
-Un paseo por el paseo de la fama, donde están las estrellas de los mejores del arte del cine, música...
+Un paseo por el "_Paseo de la Fama_", donde están las estrellas de los mejores del arte del cine, música...
 Visitar la ___playa de Santa Mónica___, el barrio de Beverly Hills y conocer lugares donde fueron rodadas muchas películas.
 ![Imágenes de LA]({{site.baseurl}}/assets/img/LosAngeles.jpg)
 
