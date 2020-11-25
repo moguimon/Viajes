@@ -24,10 +24,10 @@ Visitar la ___playa de Santa Mónica___, el barrio de Beverly Hills y conocer lu
 
 ### Las Vegas
 La ciudad que nunca duerme, llena de luz de sus lujosos ___casinos-hoteles___. Allí todo es diversión.
-![Imagen de LasVegas]({{site.baseurl}/assets/img/EEUU/LasVegas.jpg})
+![Imagen de LasVegas]({{site.baseurl}/assets/img/LasVegas.jpg})
 
 
 ### San Francisco
 Una de las ciudades más parecida a Europa. El desplazamiento es principalmente en tranvía. Podemos visitar el Golden Gate, la prisión de ___Alcatraz___...
-![Imagen de Alcatraz]({{site.baseurl}/assets/img/EEUU/Alcatraz.jpg})
+![Imagen de Alcatraz]({{site.baseurl}/assets/img/Alcatraz.jpg})
 
