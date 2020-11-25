@@ -3,7 +3,7 @@ layout: page
 title: INFORMACIÓN DE LA PÁGINA
 ---
 
-<span style="color:#E8D91E"># Viajes</span>
+# <span style="color:#E8D91E">Viajes</span>
 
 Blog Personal de Viajes 
 Este Blog trata sobre algunos de los viajes personales realizado a lo largo de mi vida.
