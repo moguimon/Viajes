@@ -21,3 +21,11 @@ Un paseo por el paseo de la fama, donde están las estrellas de los mejores del 
 Visitar la ___playa de Santa Mónica___, el barrio de Beverly Hills y conocer lugares donde fueron rodadas muchas películas.
 ![Imágenes de LA]({{site.baseurl}}/assets/img/LosAngeles.jpg)
 
+### Las Vegas
+La ciudad que nunca duerme, llena de luz de sus lujosos ___casinos-hoteles___. Allí todo es diversión.
+![Imagen de LasVegas]({{site.baseurl}}/assets/img/LasVegas.jpg)
+
+### San Francisco
+Una de las ciudades más parecida a Europa. El desplazamiento es principalmente en tranvía. Podemos visitar el Golden Gate, la prisión de ___Alcatraz___...
+![Imagen de Alcatraz]({{site.baseurl}}/assets/img/Alcatraz.jpg)
+
