@@ -2,6 +2,7 @@
 layout: page
 title: License
 ---
+background-color: ##252B83;
 
 # The MIT License (MIT)
 
