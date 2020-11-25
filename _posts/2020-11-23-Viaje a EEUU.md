@@ -2,7 +2,7 @@
 layout: post
 title: "Viaje a EEUU"
 author: "moguimon"
-categories: viajes
+categories: journal
 tags: [documentation,sample]
 image: EEUU.jpg
 ---
