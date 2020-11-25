@@ -1,8 +1,8 @@
 ---
 layout: page
-title: INFORMACIÓN DE LA PÁGINA
+title: 
 ---
-
+## <span style="color:#1548BE">INFORMACIÓN DE LA PÁGINA
 # <span style="color:#1548BE">Viajes
 
 Blog Personal de Viajes 
