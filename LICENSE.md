@@ -2,9 +2,9 @@
 layout: page
 title: License
 ---
-<span style="color:red">
 
-# The MIT License (MIT)
+
+# <span style="color:red">The MIT License (MIT)</span>
 
 Copyright (c) 2017
 
@@ -26,4 +26,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-</span>
+
