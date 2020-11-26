@@ -7,8 +7,6 @@ tags: [documentation,sample]
 image: Mejico.jpg
 ---
 
-## Viaje a Méjico
-
 Llegó el momento de mostrar algunas de las vivencias en tierras mejicanas.
 
 ### Bienvenida
