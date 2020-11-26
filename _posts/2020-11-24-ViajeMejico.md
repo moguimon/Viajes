@@ -14,7 +14,7 @@ El día 31 de octubre de 2010, tuve la gran suerte de aterrizar en Méjico. Este
 ![Imágenes Bienvenida]({{site.baseurl}}/assets/img/Bienvenida.jpg)
 
 ### Riviera Maya
-Esta zona es muy turística, y cuenta con una playa privada muy extensa, en una zona hotelera, donde puedes gozar de las azules y cristalinas aguas del ___Mar Caribe___. 
+Esta zona es muy turística y cuenta con una playa privada muy extensa, en una zona hotelera, donde puedes gozar de las azules y cristalinas aguas del ___Mar Caribe___. 
 ![Imágenes de Playa del Carmen]({{site.baseurl}}/assets/img/PlayaCarmen.jpg)
 
 ### Chichén Itzá
