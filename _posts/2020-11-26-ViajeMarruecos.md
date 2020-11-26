@@ -14,5 +14,5 @@ La primera instánea que se muestra tiene lugar en Fez y se puede ver desde la m
 ![Imágenes de Nueva York]({{site.baseurl}}/assets/img/Cuero.jpg)
 
 ### Volubilis
-Muy cerca de Mequinez, se encuntra Boluvilis, una antigua ___ciudad romana___ actualmente en territorio bereber. Volubilis es el yacimiento romano mejor preservado en el norte de África.
+Muy cerca de Mequinez, se encuentra Boluvilis, una antigua ___ciudad romana___ actualmente en territorio bereber. Volubilis es el yacimiento romano mejor preservado en el norte de África.
 ![Imagen de Volubilis]({{site.baseurl}}/assets/img/Boluvilis.jpg)
