@@ -22,5 +22,5 @@ Tras un largo paseo en autobús hasta llegar a la zona oriente, en la península
 ![Imagen de Chichen Itza]({{site.baseurl}}/assets/img/ChichenItza.jpg)
 
 ### Ruinas de Tulum
-Otra visita obligatoria son las ___ruínas de Tulum___, situadas encima de un acantilado. En este lugar hay una de las playas más hermosas de la Riviera Maya.
+Otra visita obligatoria son las ___ruínas de Tulum___, situadas encima de un acantilado. En este paraje hay una de las playas más hermosas de la Riviera Maya.
 ![Imagen de Tulum]({{site.baseurl}}/assets/img/Tulum.jpg)
