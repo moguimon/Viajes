@@ -7,8 +7,6 @@ tags: [documentation,sample]
 image: EEUU.jpg
 ---
 
-## Viaje a Estados Unidos
-
 A continuación algunas imágenes de mi viaje a Estados Unidos, de este a oeste.
 
 ### Nueva York
