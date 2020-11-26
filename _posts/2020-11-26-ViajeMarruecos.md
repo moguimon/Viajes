@@ -7,8 +7,6 @@ tags: [documentation,sample]
 image: Marruecos.jpg
 ---
 
-## Viaje a Marruecos
-
 En el día de hoy voy a publicar algunas imágenes de mis salidas al país vecino, Marruecos.
 
 ### Fez
