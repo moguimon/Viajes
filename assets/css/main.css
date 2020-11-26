@@ -276,7 +276,7 @@ pre {
 code {
   padding: .25em .5em;
   font-size: .8rem;
-  background-color: #E4EC0F;
+  background-color: #e4ec0f;
   border-radius: 3px;
 }
 pre {
@@ -290,7 +290,7 @@ pre {
   white-space: pre-wrap;
   word-break: break-all;
   word-wrap: break-word;
-  background-color: #E4EC0F;
+  background-color: #e4ec0f;
 }
 pre code {
   padding: 0;
