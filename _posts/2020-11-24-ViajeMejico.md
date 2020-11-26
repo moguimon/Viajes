@@ -10,7 +10,7 @@ image: Mejico.jpg
 Llegó el momento de mostrar algunas de las vivencias en tierras mejicanas.
 
 ### Bienvenida
-El día 31 de octubre de 2010, tuve la gran suerte de aterrizar en Méjico, este día es muy especial para este país ya que se celebra la fiesta de los difuntos. En el hotel, fuimos recibidos con una ___queimada___ y todo estaba decorado para el evento.
+El día 31 de octubre de 2010, tuve la gran suerte de aterrizar en Méjico. Este día es muy especial para este país ya que se celebra la fiesta de los difuntos. En el hotel, fuimos recibidos con una ___queimada___ y todo estaba decorado para el evento.
 ![Imágenes Bienvenida]({{site.baseurl}}/assets/img/Bienvenida.jpg)
 
 ### Riviera Maya
