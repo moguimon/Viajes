@@ -18,9 +18,9 @@ Esta zona es muy turística y cuenta con una playa privada muy extensa, en una z
 ![Imágenes de Playa del Carmen]({{site.baseurl}}/assets/img/PlayaCarmen.jpg)
 
 ### Chichén Itzá
-Tras un largo paseo en autobús hasta llegar a la zona oriente, en la península del Yucatán, pudimos a ver una de las siete maravillas del mundo, las pirámides de ___Chichén Itzá___.
+Tras un largo paseo en autobús hasta llegar a la zona oriental, en la península del Yucatán, pudimos ver una de las siete maravillas del mundo, las pirámides de ___Chichén Itzá___.
 ![Imagen de Chichen Itza]({{site.baseurl}}/assets/img/ChichenItza.jpg)
 
 ### Ruinas de Tulum
-Otra visita obligatoria son las ___ruínas de Tulum___, situadas encima de un acantilado. En este paraje hay una de las playas más hermosas de la Riviera Maya.
+Otra visita obligatoria son las ___ruinas de Tulum___, situadas encima de un acantilado. En este paraje hay una de las playas más hermosas de la Riviera Maya.
 ![Imagen de Tulum]({{site.baseurl}}/assets/img/Tulum.jpg)
